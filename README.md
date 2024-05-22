@@ -1,8 +1,10 @@
-### Oi, eu sou o Vinicius Lopes! ✌️
+### Olá, eu sou Vinicius Lopes! ✌️
 
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas na Infnet
+Atualmenete meu objetivo é ser uma desenvolvedora front-end!
+
+* 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na Infnet
 * 💻 Estudando Programação Front End
-* 🤖Técnico em Mecatrônica
+* 🤖 Técnico em Mecatrônica
 
 📌 Fique à vontade para acompanhar meus projetos também.
 
