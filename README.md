@@ -1,6 +1,6 @@
 ### Olá, eu sou Vinicius Lopes! ✌️
 
-Atualmenete meu objetivo é ser uma desenvolvedora front-end!
+"Atualmenete meu objetivo é ser uma desenvolvedor front-end!"
 
 * 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na Infnet
 * 💻 Estudando Programação Front End
