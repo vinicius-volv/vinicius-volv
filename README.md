@@ -1,4 +1,4 @@
-### Oi, eu sou a Vinicius Lopes! ✌️
+### Oi, eu sou o Vinicius Lopes! ✌️
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas na Infnet
 * 💻 Estudando Programação Front End
