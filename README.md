@@ -4,6 +4,7 @@
 * 💻 Estudando Programação Front End
 * 🤖Técnico em Mecatrônica
 
+📌 Fique à vontade para acompanhar meus projetos também.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vinicius-lopes-66946179/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vinicius.volv@gmmail)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:vinicius.volv@hotmail.com)
